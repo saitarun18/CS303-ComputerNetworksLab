@@ -1,0 +1,2 @@
+5. Implement simple ESS and with transmitting nodes in wireless LAN by simulation and
+determine the performance with respect to the transmission of packets.

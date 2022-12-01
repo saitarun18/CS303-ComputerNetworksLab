@@ -1,0 +1,2 @@
+Write a program on a datagram socket for the client/server to display the messages on the
+client side typed at the server-side
